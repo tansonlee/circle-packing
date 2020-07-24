@@ -6,4 +6,4 @@ To use, upload a photo with the name "photo.png" into the root directory of the 
 
 ![](gif/circle-packing.gif)
 
-![](gif/photo.png)
+![](gif/photo.jpg)
