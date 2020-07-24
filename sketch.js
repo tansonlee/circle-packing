@@ -8,11 +8,14 @@ const maxTries = 2000;
 let drawImage = false;
 
 function preload() {
-	img = loadImage("photo.png");
+	// img = loadImage("photo.png");
+	img = loadImage("photo2.png");
 }
 
 function setup() {
-	createCanvas(686 * 2, 920);
+	// createCanvas(686 * 2, 920);
+	createCanvas(346 * 2, 612);
+
 	pixelDensity(1);
 	img.loadPixels();
 }
