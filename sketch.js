@@ -8,7 +8,7 @@ const maxTries = 2000;
 let drawImage = false;
 
 function preload() {
-	img = loadImage("photo.png");
+	img = loadImage("./assets/photo.jpg");
 }
 
 function setup() {
