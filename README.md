@@ -1,4 +1,6 @@
-# circle-packing
+# Circle Packing
+
+Link to hosted project: [Circle Packing](https://tansonlee.github.io/circle-packing/)
 
 Uses a circle packing algorithm to pack many small circles into a confined space to reveal an image made up of these small circles.
 
